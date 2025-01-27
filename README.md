@@ -13,4 +13,4 @@ This repository is about Learn | Hack | Share | Repeat.
                   </tr>
             </thead>
             <tbody>
-              <td>1.</td><td>Jan, 2025</td><td>https://bit.ly/34n9Ozb</td></tr>
+              <td>1.</td><td>Jan, 2025</td><td>https://github.com/rvismit/BreachBrief/blob/main/Jan%2C%202025.md</td></tr>
