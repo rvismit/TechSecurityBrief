@@ -1,7 +1,7 @@
-# BreachBrief
+# Tech Security Brief
 This repository is about Learn | Hack | Share | Repeat. 
 <br><br>Updates on end of every month :)<br> <br>
-#BreachBrief
+#TechSecurityBrief
 <br>
 <smart-table>
         <table>
